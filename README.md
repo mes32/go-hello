@@ -1,2 +1,2 @@
 # go-hello
-Hello Wold using Go
+Hello World using Go
