@@ -1,17 +1,12 @@
 # go-hello
 Hello World using Go
 
+## Running
 ```bash
-$ go run hello-world.go
-hello world
-
-$ go build hello-world.go
-$ ls
-hello-world	hello-world.go
-
-$ ./hello-world
-hello world
+$ go run main.go
 ```
+
+Server should now be running on [localhost:8000](http://localhost:8000)
 
 ## Resources
 * [gobyexample.com](https://gobyexample.com)
